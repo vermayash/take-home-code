@@ -4,6 +4,8 @@ Simple weather showing app using OperWeatherMap.org API.
 
 It shows the weather of your current location.
 
+This app is developed using React.
+
 Please give the access to your location in Chrome browser by clicking on 'Allow' button the alert.
 
 To run it on your own system, clone the git to your system.
