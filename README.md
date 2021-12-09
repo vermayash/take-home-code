@@ -2,6 +2,8 @@
 
 Simple weather showing app using OperWeatherMap.org API.
 
+![](https://imgur.com/a/RkNJYlx)
+
 It shows the weather of your current location.
 
 This app is developed using React.
